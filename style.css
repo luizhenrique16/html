@@ -3,7 +3,7 @@ body {
 }
 
 #download {
-    
+    width:20%;
 }
 
 h1 {
@@ -21,4 +21,15 @@ p {
 em strong {
     color: #FF0000;
 }
+
+.intens {
+    font-size: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+}
+
+
+
 
